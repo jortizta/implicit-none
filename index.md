@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Home
 ---
 # Lorem Ipsum
 
