@@ -18,7 +18,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Finish
+<!-- ## Finish
 
 _Congratulations friend, you've completed this course!_
 
@@ -41,7 +41,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
-<footer>
+<footer> -->
 
 <!--
   <<< Author notes: Footer >>>

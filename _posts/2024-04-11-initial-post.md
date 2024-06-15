@@ -7,13 +7,11 @@ author: Jose L. Ortiz-Tarin
 
 In an ML pipeline, a component is a self-contained unit of code that performs a specific task. Components break down complex ML workflows into modular and manageable units. Each component typically performs one step in the workflow such as feature engineering, data preprocessing or model training. 
 
-Components are designed to be **modular **allowing developers to focus on specific tasks without having to understand the entire pipeline. Preferably they are also** reusable **and **isolated, **so they can be used in multiple pipelines and changes in one component don’t necessarily impact others.** ** 
+Components are designed to be **modular** allowing developers to focus on specific tasks without having to understand the entire pipeline. Preferably they are also **reusable** and **isolated**, so they can be used in multiple pipelines and changes in one component don’t necessarily impact others. 
 
 A component is generally defined by an interface, where inputs, outputs and dependencies are specified. Additionally, containerization is commonly used to package components and ensure consistency across different environments and executions.
 
 In Kubeflow, all the components are defined by a container image, a command to execute and a set of arguments. This information is commonly stored in a yaml file. Depending on the complexity of the component and the experience of the developer components can be defined in three ways:
-
-
 
 * **Lightweight Python components:** these components are simply defined by a python function and a @dsl.component decorator. When compiled, the decorator transforms your function into a component that can be executed by a KFP backend. This approach is convenient to start learning about pipelines or writing a very simple component but does not facilitate managing source code with multiple dependencies.
  
