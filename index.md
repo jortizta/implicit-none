@@ -6,4 +6,4 @@ title: Posts about AI
 
 _Web under construction._ 
 
-This is a non-exhaustive, non-continous collection of articles about AI, ML and applied math.
+This is a non-exhaustive, non-continous, non-differentiable collection of articles about AI, ML and applied math.
