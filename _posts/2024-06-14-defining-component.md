@@ -90,7 +90,6 @@ def my_function(
    return output("foo", 3)
 ```
 
-![test]('https://github.com/jortizta/implicit-none/blob/main/_figures/fig_1.PNG')
-
-
 To learn more about data passing in KFP components and how to assemble a pipeline you can read these articles [ ] [ ].
+![test]('https://github.com/jortizta/implicit-none/blob/main/_figures/fig_1.PNG')
+![test jpg]('https://github.com/jortizta/implicit-none/blob/main/_figures/test_figure.jpg')
