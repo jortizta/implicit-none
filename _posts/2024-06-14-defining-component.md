@@ -91,5 +91,5 @@ def my_function(
 ```
 
 To learn more about data passing in KFP components and how to assemble a pipeline you can read these articles [ ] [ ].
-![test]('https://github.com/jortizta/implicit-none/blob/main/_figures/fig_1.PNG')
-![test jpg]('https://github.com/jortizta/implicit-none/blob/main/_figures/test_figure.jpg')
+![test](https://github.com/jortizta/implicit-none/blob/main/_figures/fig_1.PNG)
+![test jpg](/implicit-none/_figures/test_figure.jpg)
