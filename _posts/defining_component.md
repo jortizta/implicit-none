@@ -1,9 +1,8 @@
 ---
-title: "Defining a custom component"
+title: "Defining a custom Kubeflow component"
 date: 2024-06-13
 author: Jose L. Ortiz-Tarin
 ---
-# Defining a custom component
 
 In an ML pipeline, a component is a self-contained unit of code that performs a specific task. Components break down complex ML workflows into modular and manageable units. Each component typically performs one step in the workflow such as feature engineering, data preprocessing or model training. 
 
@@ -90,6 +89,9 @@ def my_function(
 
    return output("foo", 3)
 ```
+
+![test]('https://jortizta.github.io/implicit-none/_figures/fig_1.PNG')
+
 
 
 To learn more about data passing in KFP components and how to assemble a pipeline you can read these articles [ ] [ ].
