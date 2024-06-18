@@ -92,5 +92,9 @@ def my_function(
 
 To learn more about data passing in KFP components and how to assemble a pipeline you can read these articles [ ] [ ].
 ![test]('../_figures/test_figure.jpg')
+
+
 ![test jpg]('/implicit-none/_figures/test_figure.jpg')
+
+
 <img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
