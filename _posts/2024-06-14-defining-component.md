@@ -94,22 +94,22 @@ To learn more about data passing in KFP components and how to assemble a pipelin
 
 
 1
-![test]('/figures/test_figure.jpg')
+![test]('/figures/test_figure.JPG')
 
 2
-![test jpg2](test_figure.jpg)
+![test jpg2](test_figure.JPG)
 
 3
-![test jpg](implicit-none/figures/test_figure.jpg)
+![test jpg](implicit-none/figures/test_figure.JPG)
 
 4
-<img src=implicit-none/figures/test_figure.jpg alt=celebrate width=300 align=right>
+<img src=implicit-none/figures/test_figure.JPG alt=celebrate width=300 align=right>
 
 5
-<img src=test_figure.jpg alt=celebrate width=300 align=right>
+<img src=test_figure.JPG alt=celebrate width=300 align=right>
 
 6
-<img src=implicit-none/figures/test_figure.jpg alt=celebrate width=300 align=right>
+<img src=implicit-none/figures/test_figure.JPG alt=celebrate width=300 align=right>
 
 
 
