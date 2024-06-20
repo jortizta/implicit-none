@@ -103,17 +103,16 @@ To learn more about data passing in KFP components and how to assemble a pipelin
 ![test jpg](implicit-none/figures/test_figuree.JPG) -->
 
 4
-<img src="./figures/test_figuree.JPG" alt=celebrate width=300 align=right>
+<img src="./figures/test_figuree.JPG" alt=celebrate width=300 align=right> </img>
 
 5
-<img src=test_figuree.JPG alt=celebrate width=300 align=right>
+<img src=test_figuree.JPG alt=celebrate width=300 align=right> </img>
 
 6
-<img src=./implicit-none/figures/test_figuree.JPG alt=celebrate width=300 align=right>
+<img src=./implicit-none/figures/test_figuree.JPG alt=celebrate width=300 align=right> </img> 
 
 
-7
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right> </img>
 
 8
 ![test 5]('/figures/test_figuree.JPG')
@@ -122,6 +121,6 @@ To learn more about data passing in KFP components and how to assemble a pipelin
 ![test 7]('./figures/test_figuree.JPG')
 
 10
-<img src=https://raw.githubusercontent.com/jortizta/implicit-none/main/figures/test_figuree.JPG alt=lol width=300 align=right>
+<img src=https://raw.githubusercontent.com/jortizta/implicit-none/main/figures/test_figuree.JPG alt=lol width=300 align=right> </img>
 
 
