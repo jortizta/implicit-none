@@ -108,10 +108,15 @@ To learn more about data passing in KFP components and how to assemble a pipelin
 5
 <img src=test_figuree.JPG alt=celebrate width=300 align=right>
 
-7
+6
 <img src=implicit-none/figures/test_figuree.JPG alt=celebrate width=300 align=right>
 
 
-
+7
 <img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
 
+8
+![test 5]('figures/test_figuree.JPG')
+
+9
+![test 7](figures/test_figuree.JPG)
