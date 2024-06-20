@@ -92,19 +92,24 @@ def my_function(
 
 To learn more about data passing in KFP components and how to assemble a pipeline you can read these articles [ ] [ ].
 
-![test]('/_figures/test_figure.jpg')
 
+1
+![test]('/figures/test_figure.jpg')
 
+2
 ![test jpg2](test_figure.jpg)
 
+3
+![test jpg](implicit-none/figures/test_figure.jpg)
 
-![test jpg](implicit-none/_figures/test_figure.jpg)
+4
+<img src=implicit-none/figures/test_figure.jpg alt=celebrate width=300 align=right>
 
-<img src=implicit-none/_figures/test_figure.jpg alt=celebrate width=300 align=right>
-
+5
 <img src=test_figure.jpg alt=celebrate width=300 align=right>
 
-<img src=implicit-none/_figures/test_figure.jpg alt=celebrate width=300 align=right>
+6
+<img src=implicit-none/figures/test_figure.jpg alt=celebrate width=300 align=right>
 
 
 
