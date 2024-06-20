@@ -108,7 +108,7 @@ To learn more about data passing in KFP components and how to assemble a pipelin
 5
 <img src=test_figure.JPG alt=celebrate width=300 align=right>
 
-6
+7
 <img src=implicit-none/figures/test_figure.JPG alt=celebrate width=300 align=right>
 
 
