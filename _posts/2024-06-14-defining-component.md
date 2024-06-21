@@ -123,4 +123,8 @@ To learn more about data passing in KFP components and how to assemble a pipelin
 10
 <img src=https://raw.githubusercontent.com/jortizta/implicit-none/main/figures/test_figuree.JPG alt=lol width=300 align=right> </img>
 
+11
+![test 1]('https://jortizta.github.io/implicit-none/figures/test_figuree.JPG')
 
+
+<img src='https://jortizta.github.io/implicit-none/figures/test_figuree.JPG' alt=lol width=300 align=right>
