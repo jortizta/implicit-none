@@ -1,6 +1,6 @@
 ---
 title: "Pipeline Compilation & Submission"
-date: 2024-00-00
+date: 2024-06-25
 author: Joshua Thompson
 ---
 

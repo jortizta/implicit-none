@@ -1,6 +1,6 @@
 ---
 title: "Pipeline Assembly"
-date: 2024-00-00
+date: 2024-06-24
 author: Joshua Thompson
 ---
 
