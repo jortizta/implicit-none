@@ -93,38 +93,4 @@ def my_function(
 To learn more about data passing in KFP components and how to assemble a pipeline you can read these articles [ ] [ ].
 
 
-1
-![test]('test_figuree.JPG')
-
-2
-![test jpg2](test_figuree.JPG)
-
-<!-- 3
-![test jpg](implicit-none/figures/test_figuree.JPG) -->
-
-4
-<img src="./figures/test_figuree.JPG" alt=celebrate width=300 align=right> </img>
-
-5
-<img src=test_figuree.JPG alt=celebrate width=300 align=right> </img>
-
-6
-<img src=./implicit-none/figures/test_figuree.JPG alt=celebrate width=300 align=right> </img> 
-
-
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right> </img>
-
-8
-![test 5]('/figures/test_figuree.JPG')
-
-9
-![test 7]('./figures/test_figuree.JPG')
-
-10
-<img src=https://raw.githubusercontent.com/jortizta/implicit-none/main/figures/test_figuree.JPG alt=lol width=300 align=right> </img>
-
-11
-![test 1]('https://jortizta.github.io/implicit-none/figures/test_figuree.JPG')
-
-
 <img src='https://jortizta.github.io/implicit-none/figures/test_figuree.JPG' alt=lol width=300 align=right>
